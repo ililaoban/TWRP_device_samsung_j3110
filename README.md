@@ -1,1 +1,2 @@
-# TWRP_device_samsung_j3110
+# TWRP device tree for Samsung J3110 (j3proxltechc)
+# MSM8916   J3Pro 中国大陆公开版
